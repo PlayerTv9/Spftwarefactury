@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/Spftwarefactory/static/css/main.49d2127d.css",
-    "main.js": "/Spftwarefactory/static/js/main.01b1aa3e.js",
-    "static/js/787.e5797bd6.chunk.js": "/Spftwarefactory/static/js/787.e5797bd6.chunk.js",
-    "static/media/Neon_Browser.zip": "/Spftwarefactory/static/media/Neon_Browser.565dfc98fc739357c428.zip",
-    "static/media/home_img2.png": "/Spftwarefactory/static/media/home_img2.9b3e77bbcceb5aab2a28.png",
-    "static/media/1-tutorial.png": "/Spftwarefactory/static/media/1-tutorial.21c4ae0c9406ee1064cd.png",
-    "static/media/Home-Neonbrowser.png": "/Spftwarefactory/static/media/Home-Neonbrowser.1fa1bf9542b0bef96c15.png",
-    "static/media/NeonBrowser2.png": "/Spftwarefactory/static/media/NeonBrowser2.e349cd21ab358fb84498.png",
-    "static/media/Home.png": "/Spftwarefactory/static/media/Home.a65a80ce050d63b92d25.png",
-    "static/media/NeonBrowser3.png": "/Spftwarefactory/static/media/NeonBrowser3.775d8436286a657294a4.png",
-    "static/media/4-tutorial.png": "/Spftwarefactory/static/media/4-tutorial.3683fc6d04a137650ec4.png",
-    "static/media/2-tutorial.png": "/Spftwarefactory/static/media/2-tutorial.80a948eb9dd448ac2f1f.png",
-    "static/media/logo2.png": "/Spftwarefactory/static/media/logo2.49acf4d7d82ee9accb60.png",
-    "static/media/error.png": "/Spftwarefactory/static/media/error.e3e9076a557ab20b0975.png",
-    "static/media/3-tutorial.png": "/Spftwarefactory/static/media/3-tutorial.1dfbbbd786847e92a47c.png",
-    "index.html": "/Spftwarefactory/index.html",
-    "main.49d2127d.css.map": "/Spftwarefactory/static/css/main.49d2127d.css.map",
-    "main.01b1aa3e.js.map": "/Spftwarefactory/static/js/main.01b1aa3e.js.map",
-    "787.e5797bd6.chunk.js.map": "/Spftwarefactory/static/js/787.e5797bd6.chunk.js.map"
+    "main.css": "/static/css/main.49d2127d.css",
+    "main.js": "/static/js/main.18f386e7.js",
+    "static/js/787.e5797bd6.chunk.js": "/static/js/787.e5797bd6.chunk.js",
+    "static/media/home_img2.png": "/static/media/home_img2.9b3e77bbcceb5aab2a28.png",
+    "static/media/1-tutorial.png": "/static/media/1-tutorial.21c4ae0c9406ee1064cd.png",
+    "static/media/Home-Neonbrowser.png": "/static/media/Home-Neonbrowser.1fa1bf9542b0bef96c15.png",
+    "static/media/NeonBrowser2.png": "/static/media/NeonBrowser2.e349cd21ab358fb84498.png",
+    "static/media/NeonBrowser3.png": "/static/media/NeonBrowser3.775d8436286a657294a4.png",
+    "static/media/4-tutorial.png": "/static/media/4-tutorial.3683fc6d04a137650ec4.png",
+    "static/media/2-tutorial.png": "/static/media/2-tutorial.80a948eb9dd448ac2f1f.png",
+    "static/media/logo2.png": "/static/media/logo2.49acf4d7d82ee9accb60.png",
+    "static/media/error.png": "/static/media/error.e3e9076a557ab20b0975.png",
+    "static/media/3-tutorial.png": "/static/media/3-tutorial.1dfbbbd786847e92a47c.png",
+    "index.html": "/index.html",
+    "main.49d2127d.css.map": "/static/css/main.49d2127d.css.map",
+    "main.18f386e7.js.map": "/static/js/main.18f386e7.js.map",
+    "787.e5797bd6.chunk.js.map": "/static/js/787.e5797bd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49d2127d.css",
-    "static/js/main.01b1aa3e.js"
+    "static/js/main.18f386e7.js"
   ]
 }
